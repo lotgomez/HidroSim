@@ -180,9 +180,10 @@
     <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
   </panorama>
   <masternode>
-    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{974e9211-7b08-40c6-8df7-fe491245192d}"/>
+    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{3726657e-cf5e-453d-8241-93d4217120ea}"/>
     <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
     <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <vr defaulthsscale="100" handtracking="3" skinbuttonposition="0" toggleskinbutton="1"/>
     <animationsequences>
       <sequence title="Animation01"/>
     </animationsequences>
