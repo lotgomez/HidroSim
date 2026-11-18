@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="22607" appversion="8.0.5" hassounds="1" start="node1">
+  <panorama id="node1">
+    <input height="1920" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1920">
+      <level height="1920" predecode="0" preload="0" width="1920"/>
+      <level height="960" predecode="1" preload="1" width="960"/>
+      <preview color="0x808080" strip="1"/>
+      <video endaction="loop" format="equi" level="1" startmutedmobile="0" startonload="1" targetview="">
+        <source url="videos/VID_20261114_151353_00_009.mp4"/>
+      </video>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-18T02:50:20" comment="" copyright="" customnodeid="" datetime="" description="" heading="-218.672" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node1" source="" tags="bitrate" title="Aereo"/>
+    <view fovmode="2" pannorth="-218.672">
+      <start fov="100" pan="-24.2943" projection="4" tilt="-19.6143"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-29.55" skinid="ht_node" target="$fwd" tilt="-13.05" title="Popa" url="{node2}"/>
+      <hotspot description="" id="Point02" pan="-23.64" skinid="ht_node" target="$fwd" tilt="-23.57" title="Proa" url="{node3}"/>
+      <hotspot description="" id="Point03" pan="134.7" skinid="ht_node" target="$fwd" tilt="5.63" title="Viga" url="{node4}"/>
+      <hotspot description="" id="Point04" pan="139.15" skinid="ht_node" target="$fwd" tilt="-9.71" title="Panel" url="{node5}"/>
+      <hotspot description="" id="Point05" pan="160.4" skinid="ht_node" target="$fwd" tilt="-0.07" title="Arriba" url="{node6}"/>
+      <hotspot description="" id="Point06" pan="-17.36" skinid="ht_node" target="" tilt="-46.47" title="Fondo" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input height="1920" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1920">
+      <level height="1920" predecode="0" preload="0" width="1920"/>
+      <level height="960" predecode="1" preload="1" width="960"/>
+      <preview color="0x808080" strip="1"/>
+      <video endaction="loop" format="equi" level="1" startmutedmobile="0" startonload="1" targetview="">
+        <source url="videos/VID_20261114_144016_00_003.mp4"/>
+      </video>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-18T02:50:22" comment="" copyright="" customnodeid="" datetime="" description="" heading="-212.252" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node2" source="" tags="bitrate" title="Popa"/>
+    <view fovmode="2" pannorth="-212.252">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="161.1" skinid="ht_node" target="$fwd" tilt="-22.51" title="Proa" url="{node3}"/>
+      <hotspot description="" id="Point02" pan="-169.29" skinid="ht_node" target="$fwd" tilt="11.62" title="Aereo" url="{node1}"/>
+      <hotspot description="" id="Point03" pan="140.34" skinid="ht_node" target="$fwd" tilt="-2.87" title="Panel" url="{node5}"/>
+      <hotspot description="" id="Point04" pan="86.21" skinid="ht_node" target="" tilt="-38.89" title="Fondo" url="{node7}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="1920" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1920">
+      <level height="1920" predecode="0" preload="0" width="1920"/>
+      <level height="960" predecode="1" preload="1" width="960"/>
+      <preview color="0x808080" strip="1"/>
+      <video endaction="loop" format="equi" level="1" startmutedmobile="0" startonload="1" targetview="">
+        <source url="videos/VID_20261114_144317_00_004.mp4"/>
+      </video>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-18T02:50:24" comment="" copyright="" customnodeid="" datetime="" description="" heading="-197.081" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node3" source="" tags="bitrate" title="Proa"/>
+    <view fovmode="2" pannorth="-197.081">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-9.86" skinid="ht_node" target="$fwd" tilt="-26.42" title="Popa" url="{node2}"/>
+      <hotspot description="" id="Point02" pan="157.38" skinid="ht_node" target="$fwd" tilt="12.92" title="Viga" url="{node4}"/>
+      <hotspot description="" id="Point03" pan="158.06" skinid="ht_node" target="$fwd" tilt="-4.21" title="Panel" url="{node5}"/>
+      <hotspot description="" id="Point04" pan="176.8" skinid="ht_node" target="$fwd" tilt="8.03" title="Arriba" url="{node6}"/>
+      <hotspot description="" id="Point05" pan="100.24" skinid="ht_node" target="" tilt="-43.22" title="Fondo" url="{node7}"/>
+      <hotspot description="" id="Point06" pan="-144.56" skinid="ht_node" target="$fwd" tilt="21.62" title="Aereo" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node4">
+    <input height="1920" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1920">
+      <level height="1920" predecode="0" preload="0" width="1920"/>
+      <level height="960" predecode="1" preload="1" width="960"/>
+      <preview color="0x808080" strip="1"/>
+      <video endaction="loop" format="equi" level="1" startmutedmobile="0" startonload="1" targetview="">
+        <source url="videos/VID_20261114_144613_00_005.mp4"/>
+      </video>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-18T02:50:26" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node4" source="" tags="bitrate" title="Viga"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="0.59" skinid="ht_node" target="$fwd" tilt="-18.05" title="Panel" url="{node5}"/>
+      <hotspot description="" id="Point02" pan="24.72" skinid="ht_node" target="$fwd" tilt="-5.19" title="Arriba" url="{node6}"/>
+      <hotspot description="" id="Point03" pan="177.63" skinid="ht_node" target="" tilt="-37.51" title="Fondo" url="{node7}"/>
+      <hotspot description="" id="Point04" pan="138.96" skinid="ht_node" target="$fwd" tilt="-17.04" title="Aereo" url="{node1}"/>
+      <hotspot description="" id="Point05" pan="178.89" skinid="ht_node" target="$fwd" tilt="-26.6" title="Proa" url="{node3}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="1920" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1920">
+      <level height="1920" predecode="0" preload="0" width="1920"/>
+      <level height="960" predecode="1" preload="1" width="960"/>
+      <preview color="0x808080" strip="1"/>
+      <video endaction="loop" format="equi" level="1" startmutedmobile="0" startonload="1" targetview="">
+        <source url="videos/VID_20261114_144854_00_006.mp4"/>
+      </video>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-18T02:50:28" comment="" copyright="" customnodeid="" datetime="" description="" heading="-219.825" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node5" source="" tags="bitrate" title="Panel"/>
+    <view fovmode="2" pannorth="-219.825">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-39.22" skinid="ht_node" target="$fwd" tilt="-2.18" title="Proa" url="{node3}"/>
+      <hotspot description="" id="Point02" pan="-38.47" skinid="ht_node" target="$fwd" tilt="11.45" title="Viga" url="{node4}"/>
+      <hotspot description="" id="Point03" pan="-142.82" skinid="ht_node" target="$fwd" tilt="18.36" title="Arriba" url="{node6}"/>
+      <hotspot description="" id="Point04" pan="-39.25" skinid="ht_node" target="" tilt="-9.07" title="Fondo" url="{node7}"/>
+      <hotspot description="" id="Point05" pan="-54.85" skinid="ht_node" target="$fwd" tilt="4.67" title="Aereo" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="1920" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="1920">
+      <level height="1920" predecode="0" preload="0" width="1920"/>
+      <level height="960" predecode="1" preload="1" width="960"/>
+      <preview color="0x808080" strip="1"/>
+      <video endaction="loop" format="equi" level="1" startmutedmobile="0" startonload="1" targetview="">
+        <source url="videos/VID_20261114_145741_00_007.mp4"/>
+      </video>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-18T02:50:30" comment="" copyright="" customnodeid="" datetime="" description="" heading="-4.76677" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node6" source="" tags="bitrate" title="Arriba"/>
+    <view fovmode="2" pannorth="-4.76677">
+      <start fov="100" pan="0" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-105.64" skinid="ht_node" target="$fwd" tilt="-40.65" title="Panel" url="{node5}"/>
+      <hotspot description="" id="Point02" pan="-164.8" skinid="ht_node" target="$fwd" tilt="-4.49" title="Viga" url="{node4}"/>
+      <hotspot description="" id="Point03" pan="-173.66" skinid="ht_node" target="$fwd" tilt="-11.39" title="Proa" url="{node3}"/>
+      <hotspot description="" id="Point04" pan="-168.71" skinid="ht_node" target="" tilt="-19.82" title="Fondo" url="{node7}"/>
+      <hotspot description="" id="Point05" pan="176.34" skinid="ht_node" target="$fwd" tilt="-9.95" title="Aereo" url="{node1}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <panorama id="node7">
+    <input height="960" levelbias="0.400" levelbiashidpi="1.000" levelingpitch="0" levelingroll="0" leveltilesize="1022" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" width="960">
+      <level height="960" predecode="1" preload="1" width="960"/>
+      <preview color="0x808080" strip="1"/>
+      <video endaction="loop" format="equi" level="1" startmutedmobile="0" startonload="1" targetview="">
+        <source url="videos/VID_20261114_150733_00_003.mp4"/>
+      </video>
+    </input>
+    <userdata altitude="0.00" author="" capturedatetime="2026-11-18T02:50:32" comment="" copyright="" customnodeid="" datetime="" description="" heading="0" hideinlist="0" info="" latitude="-1000.00000000" longitude="0.00000000" nodeid="node7" source="" tags="bitrate" title="Fondo"/>
+    <view fovmode="2" pannorth="0">
+      <start fov="100" pan="-4.98141" projection="4" tilt="82.0463"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min fov="1" pan="0" tilt="-90"/>
+      <max fov="120" fovfisheye="360" fovstereographic="270" pan="360" scaletofit="0" tilt="90"/>
+    </view>
+    <hotspots>
+      <hotspot description="" id="Point01" pan="-9.96" skinid="ht_node" target="158.2/-9.8/100.0" tilt="79.11" title="Proa" url="{node3}"/>
+      <hotspot description="" id="Point02" pan="-7.04" skinid="ht_node" target="150.8/-12.3/100.0" tilt="39.48" title="Popa" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <animation animsequence="Animation01" clipsrandom="0" syncanimationwithvideo="0" useinautorotation="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" comment="" copyright="" description="" tags="" title="" uuid="{974e9211-7b08-40c6-8df7-fe491245192d}"/>
+    <transition blendcolor="0x000000" blendtime="1" delay="none" enabled="1" softedge="0" type="crossdissolve" zoomafterinfov="140" zoomafteroutfov="40" zoomfov="40" zoomin="0" zoomout="0" zoomoutpause="1" zoomspeed="2"/>
+    <control contextfullscreen="1" contextprojections="0" contextvr="1" dblclickfullscreen="0" hideabout="0" invertcontrol="1" invertwheel="0" lockedkeyboard="0" lockedkeyboardzoom="0" lockedmouse="0" lockedwheel="0" rubberband="0" sensitivity="8" simulatemass="1" speedwheel="1" zoomcentercursor="1"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+    <hotspots smoothmovement="0">
+      <label background="1" backgroundalpha="1" backgroundcolor="0xffffff" border="1" borderalpha="1" bordercolor="0x000000" borderradius="1" enabled="1" height="20" textalpha="1" textcolor="0x000000" width="180" wordwrap="1"/>
+      <polystyle backgroundalpha="0.25098" backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" handcursor="1" mode="0"/>
+    </hotspots>
+  </masternode>
+</tour>
